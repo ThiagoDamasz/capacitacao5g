@@ -1,5 +1,4 @@
 
-
 public class Main {
     public static void main(String[] args) {
 
@@ -10,6 +9,6 @@ public class Main {
             soma = i + soma;
         }
 
-        System.out.println("A soma dos e igual a: " + soma);
+        System.out.println("A soma dos numeros e igual a: " + soma);
     }
 }
